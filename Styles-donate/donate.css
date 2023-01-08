@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+/* Header Styles */
+header {
+
+    background-image: url('/images/donation0.jpg');
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 400px;
+    
+    background-size: cover;
+    padding: 80px;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+.donation-title {
+    color: #ffffff;
+    margin-right: 300px;
+
+
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 10px;
+    height: 25px;
+    background: #FD6E0A;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-top: 15px;
+    margin-right: 304px;
+
+
+
+}
+
+.header-description {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 350px;
+    margin-right: 400px;
+
+}
+
+/* Main styles */
+.main {
+    margin-top: 30px;
+    align-items: center;
+    max-width: 1000px;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-description {
+    color: #707070;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 5px;
+}
+
+.for-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+    
+    
+
+}
+.btn-secondary{
+    height: 40px;
+    margin-right: 10px;
+    background: red;
+    color: #FFFFFF;
+}
+.input-user1{
+    margin-left: 420px;
+    margin-right: 300px;
+    margin-top: 15px;
+    text-align: center;
+}
+.design-input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid black;
+    border-left: 400px;
+    
+    
+}
+.btn-main{
+    margin-top: 15px;
+    background: #FD6E0A;
+    text-align: center;
+}
+/* Shelter plans */
+.shelter-plan-main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    align-items: center;
+    padding: 30px;
+}
+.shelter-title{
+    margin-top: 40px;
+    text-align: center;
+}
+.main-title2{
+   color: #707070;
+}
+.shelter-plan{
+    border: black solid 2px;
+    margin-left: 10px;
+    background: rgba(255, 89, 89, 0.1);;
+}
+.shelter-plan-heading{
+    margin-top: 20px;
+    padding: 10px;
+    
+}
+
+.description-plan{
+    margin-top: 10px;
+    padding: 20px;
+}
